@@ -1,0 +1,31 @@
+SMIB = 9999			
+POC = 107			
+INV1_Bus = 101		
+POC_frBus = 106	
+POC_toBus = 107
+mID1 = 1
+
+bus_flt = 7000 
+bus_IDTRF = 7777
+
+Pmax_actual = 19.49 	
+Qmax_pu = 0.422	
+SBASE = 100.0   	
+
+POC_VCtrl_Tgt = 1
+CON_PPCPref = 18
+CON_PPCQref = 33
+CON_PPCVref = 10
+VAR_PPCVini = 1		
+VAR_PPCPini = 2		
+VAR_PPCQini = 3	
+
+ModelAccept_delete_create_savs = 0
+
+DYR_File = SMA146_ZINGEN.dyr
+DYR_File_GNCLS = SMA146_GNCLS.dyr
+DYR_File_Q_GNCLS = SMA146_Q_GNCLS.dyr
+SAV_File = SMIB.sav
+
+SCR = [3,5]
+XR_ratio = [3.0,10]

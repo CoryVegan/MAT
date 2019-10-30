@@ -1,0 +1,9 @@
+PDF File Name,"Charts Layout RowCol (e.g. 31,32)",OUT File Name Identifier (blank means all other .out files),Primary Axis Channel (e.g. VARS;ETRM;1),Y-Axis Primary Label (blank for primary axis),Y-Axis Secondary Label,Secondary Axis
+Plots.pdf,42,,VOLTAGE,Voltage (pu),Voltage Angle of Terminal(degree),ANGL
+Plots.pdf,42,,VOLTAGE,Voltage (pu),Voltaeg Angle of PoC(degree),ANGL
+Plots.pdf,42,,PELEC,Real Power (pu on 100MVA),Active Current at Teminal (pu),Id_UUT
+Plots.pdf,42,,P_POC,Real Power (MW),,
+Plots.pdf,42,,QELEC,Reactive Power (pu on 100MVA),Reactive Current  at Teminal (pu),Iq_UUT
+Plots.pdf,42,,Q_POC,Reactive Power (MVAr),,
+Plots.pdf,42,,FREELEC,dFreq (pu),Active Current at PoC (pu),Id_POC
+Plots.pdf,42,,FRE_POC,dFreq (pu),Reactive Current at PoC(pu),Iq_POC

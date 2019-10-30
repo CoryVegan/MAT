@@ -1,0 +1,15 @@
+AEMO has prepared this package to perform various dynamic studies to aid in assessing dynamic models. 
+This Package and the information contained within it is not legally binding, and does not replace applicable requirements in the National
+Electricity Rules or AEMO’s Generating System Model Guidelines. AEMO has made every effort to
+ensure the quality of the information or processes in this Package but cannot guarantee its accuracy or
+completeness.
+Accordingly, to the maximum extent permitted by law, AEMO and its officers, employees and
+consultants involved in the preparation of this package:
+• make no representation or warranty, express or implied, as to the accuracy or
+completeness of the information or processes in this package; and
+• are not liable (whether by reason of negligence or otherwise) for any statements or
+representations in this package, or any omissions from it, or for any use or reliance on the
+information or processes in it. 
+
+If you identify any errors in the information provided, please notify us at connections@aemo.com.au. 
+AEMO is unable to provide technical support relating to the application of this script of model testing processes. 

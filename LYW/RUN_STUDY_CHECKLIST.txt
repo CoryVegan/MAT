@@ -1,0 +1,13 @@
+Model Assessment--------------------------------------------|
+Voltage_Step_Test~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|N
+POC_Vref_Step_Test~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|N
+Voltage_Angle_Step_Test~~~~~~~~~~~~~~~~~~~~~~~~|N
+POC_Pref_Step_Test~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|N
+POC_Qref_Step_Test~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|N
+Fault_Study_Test~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|Y
+FRT_Iq_Response_Test~~~~~~~~~~~~~~~~~~~~~~~~~~~|N
+Under_Voltage_Trip_Test~~~~~~~~~~~~~~~~~~~~~~~~|N
+Over_Voltage_Trip_Test~~~~~~~~~~~~~~~~~~~~~~~~~|N
+Under_Frequency_Trip_Test~~~~~~~~~~~~~~~~~~~~~~|N
+Over_Frequency_Trip_Test~~~~~~~~~~~~~~~~~~~~~~~|N
+Long_Run_Test~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|N

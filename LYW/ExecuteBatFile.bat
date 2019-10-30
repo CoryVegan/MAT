@@ -1,0 +1,1 @@
+C:/Python27/python "DynamicSim.py" "022_scr_5.0_xr_10.0_P_0.974_Qzero.sav" 20.000 "02.PoC Vstep -0.1pu_sFac0.3_dT0.002" "C:\UserData\z003sarm\Documents\Emma Wang\Liying_Wang_PTI\03_Projects\02_GidginbungSolarFarm\MAT\Test Files\Voltage_Step_Test"
